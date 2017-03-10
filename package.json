@@ -1,0 +1,11 @@
+{
+  "name": "grunt",
+  "description": "The JavaScript Task Runner",
+  "devDependencies": {
+  	"grunt": "~0.4.1",
+    "grunt-contrib-less": "~1.4.1",
+    "grunt-tmod": "~0.2.10",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-livereload": "~0.1.2"
+  }
+}
